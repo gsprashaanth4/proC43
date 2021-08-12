@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 6px solid black;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 35px;
+}
+
+h3 { color: Red; text-align: center; font-family: 'Courier New', Courier, monospace; font-size: 20px; }
